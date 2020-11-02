@@ -2,3 +2,4 @@ CPU
 Keyboard
 Mouse
 Monitor
+speakers
